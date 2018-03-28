@@ -1,7 +1,7 @@
 {
   "name": "proto-launch",
   "version": "0.0.0",
-  "description": "Small tool to host javascript prototypes on a local server",
+  "description": "Small tool to host JavaScript prototypes on a local server",
   "bin": "./dist/index.js",
   "scripts": {
     "build": "tsc -p src"
@@ -14,6 +14,7 @@
     "browser"
   ],
   "author": "Xapphire13",
+  "repository": "https://github.com/Xapphire13/proto-launch",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
