@@ -1,4 +1,6 @@
 # proto-launch
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Xapphire13/proto-launch.svg)](https://greenkeeper.io/)
 Small tool to host javascript prototypes on a local server.
 
 ## Installation
