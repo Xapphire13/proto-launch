@@ -1,6 +1,6 @@
 {
   "name": "proto-launch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small tool to host JavaScript prototypes on a local server",
   "bin": "./dist/index.js",
   "scripts": {
